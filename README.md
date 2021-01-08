@@ -1,1 +1,1 @@
-[Renamed Project to match AnyAdapter](git@github.com:pfaffenrodt/android-object-adapter.git)
+[Renamed Project to match AnyAdapter](https://github.com/pfaffenrodt/android-any-adapter)
